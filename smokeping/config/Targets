@@ -105,6 +105,51 @@ menu = gce-us-west2
 title = us-west2 (Los Angeles, California, USA)
 host = us-west2-b-gce.cloudharmony.net
 
++++ gce-us-west3
+menu = gce-us-west3
+title = us-west3 (Salt Lake City, Utah, USA)
+host = us-west3-gce.cloudharmony.net
+
++++ gce-us-west4
+menu = gce-us-west4
+title = us-west4 (Las Vegas, Nevada, USA)
+host = us-west4-gce.cloudharmony.net
+
++++ gce-us-east5
+menu = gce-us-east5
+title = us-east5 (Columbus, Ohio, USA)
+host = us-east5-gce.cloudharmony.net
+
++++ gce-us-south1
+menu = gce-us-south1
+title = us-south1 (Dallas, Texas, USA)
+host = us-south1-gce.cloudharmony.net
+
++++ gce-europe-west6
+menu = gce-europe-west6
+title = europe-west6 (Zurich, Switzerland)
+host = europe-west6-gce.cloudharmony.net
+
++++ gce-europe-west8
+menu = gce-europe-west8
+title = europe-west8 (Milan, Italy)
+host = europe-west8-gce.cloudharmony.net
+
++++ gce-europe-west9
+menu = gce-europe-west9
+title = europe-west9 (Paris, France)
+host = europe-west9-gce.cloudharmony.net
+
++++ gce-europe-central2
+menu = gce-europe-central2
+title = europe-central2 (Warsaw, Poland)
+host = europe-central2-gce.cloudharmony.net
+
++++ gce-europe-southwest1
+menu = gce-europe-southwest1
+title = europe-southwest1 (Madrid, Spain)
+host = europe-southwest1-gce.cloudharmony.net
+
 ++ AWSEC2
 menu = EC2
 title = Amazon Web Services EC2
@@ -189,15 +234,25 @@ menu = ec2-sa-east-1
 title = sa-east-1 South America (São Paulo)
 host = dynamodb.sa-east-1.amazonaws.com
 
-+++ ec2-cn-north-1
-menu = ec2-cn-north-1
-title = cn-north-1 China (Beijing)
-host = dynamodb.cn-north-1.amazonaws.com.cn
++++ ec2-eu-north-1
+menu = ec2-eu-north-1
+title = eu-north-1 EU (Stockholm)
+host = dynamodb.eu-north-1.amazonaws.com
 
-+++ ec2-cn-north-2
-menu = ec2-cn-north-2
-title = cn-north-2 China (Ningxia)
-host = dynamodb.cn-northwest-1.amazonaws.com.cn
++++ ec2-eu-south-1
+menu = ec2-eu-south-1
+title = eu-south-1 EU (Milan)
+host = dynamodb.eu-south-1.amazonaws.com
+
++++ ec2-eu-south-2
+menu = ec2-eu-south-2
+title = eu-south-2 EU (Spain)
+host = dynamodb.eu-south-2.amazonaws.com
+
++++ ec2-eu-central-2
+menu = ec2-eu-central-2
+title = eu-central-2 EU (Zurich)
+host = dynamodb.eu-central-2.amazonaws.com
 
 +++ ec2-us-gov-west-1
 menu = ec2-us-gov-west-1
@@ -303,20 +358,10 @@ menu = korea-south
 title = korea-south
 host = korea-south.azure.cloudharmony.net
 
-+++ china-north2
-menu = china-north2
-title = china-north2
-host = avchinanorth2.azure.cloudharmony.net
-
 +++ canada-east
 menu = canada-east
 title = canada-east
 host = canada-east.azure.cloudharmony.net
-
-+++ china-north
-menu = china-north
-title = china-north
-host = avchinanorth.azure.cloudharmony.net
 
 +++ eu-north
 menu = eu-north
