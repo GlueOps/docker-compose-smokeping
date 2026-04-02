@@ -24,7 +24,7 @@ touch smokeping/config/Private
 docker compose up -d
 ```
 
-## Access Smokeping
+## Access Smokeping
 
 Capture the output of
 ```bash
