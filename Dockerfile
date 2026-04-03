@@ -1,4 +1,4 @@
-FROM linuxserver/smokeping
+FROM linuxserver/smokeping@sha256:311d44c5a162f724b8d48f7a26bd604152d409f6249197ff2c7190f496db87d9
 
 # Embed SmokePing configuration
 COPY smokeping/config/ /config/
