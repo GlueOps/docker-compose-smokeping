@@ -11,651 +11,691 @@ remark = Welcome to the SmokePing website of gpkg. \
 menu = Cloud Servers
 title = Cloud Servers
 
-++ GoogleCloudEngine
-menu = GCE
-title = Google Cloud Engine
-
-+++ gce-asia-east1
-menu = gce-asia-east1
-title = asia-east1 (Changhua County, Taiwan)
-host = asia-east1-gce.cloudharmony.net
-
-+++ gce-asia-east2
-menu = gce-asia-east2
-title = asia-east2 (Hong Kong)
-host = asia-east2-gce.cloudharmony.net
-
-+++ gce-asia-northeast1
-menu = gce-asia-northeast1
-title = asia-northeast1 (Tokyo, Japan)
-host = asia-northeast1-gce.cloudharmony.net
-
-+++ gce-asia-south1
-menu = gce-asia-south1
-title = asia-south1 (Mumbai, India)
-host = asia-south1-gce.cloudharmony.net
-
-+++ gce-asia-southeast1
-menu = gce-asia-southeast1
-title = asia-southeast1 (Jurong West, Singapore)
-host = asia-southeast1-gce.cloudharmony.net
-
-+++ gce-australia-southeast1
-menu = gce-australia-southeast1
-title = australia-southeast1 (Sydney, Australia)
-host = australia-southeast1-gce.cloudharmony.net
-
-+++ gce-europe-north1
-menu = gce-europe-north1
-title = europe-north1 (Hamina, Finland)
-host = europe-north1-gce.cloudharmony.net
-
-+++ gce-europe-west1
-menu = gce-europe-west1
-title = europe-west1 (St. Ghislain, Belgium)
-host = europe-west1-gce.cloudharmony.net
-
-+++ gce-europe-west2
-menu = gce-europe-west2
-title = europe-west2 (London, England, UK)
-host = europe-west2-gce.cloudharmony.net
-
-+++ gce-europe-west3
-menu = gce-europe-west3
-title = europe-west3 (Frankfurt, Germany)
-host = europe-west3-gce.cloudharmony.net
-
-+++ gce-europe-west4
-menu = gce-europe-west4
-title = europe-west4 (Eemshaven, Netherlands)
-host = europe-west4-gce.cloudharmony.net
-
-+++ gce-northamerica-northeast1
-menu = gce-northamerica-northeast1
-title = northamerica-northeast1 (Montréal, Québec, Canada)
-host = northamerica-northeast1-gce.cloudharmony.net
-
-+++ gce-southamerica-east1
-menu = gce-southamerica-east1
-title = southamerica-east1 (São Paulo, Brazil)
-host = southamerica-east1-gce.cloudharmony.net
-
-+++ gce-us-central1
-menu = gce-us-central1
-title = us-central1 (Council Bluffs, Iowa, USA)
-host = us-central1-gce.cloudharmony.net
+++ USEast
+menu = US East
+title = US East
 
 +++ gce-us-east1
-menu = gce-us-east1
-title = us-east1 (Moncks Corner, South Carolina, USA)
+menu = GCE us-east1
+title = GCE us-east1 (Moncks Corner, South Carolina)
 host = us-east1-gce.cloudharmony.net
 
 +++ gce-us-east4
-menu = gce-us-east4
-title = us-east4 (Ashburn, Northern Virginia, USA)
+menu = GCE us-east4
+title = GCE us-east4 (Ashburn, Virginia)
 host = us-east4-gce.cloudharmony.net
 
-+++ gce-us-west1
-menu = gce-us-west1
-title = us-west1 (The Dalles, Oregon, USA)
-host = us-west1-gce.cloudharmony.net
-
-+++ gce-us-west2
-menu = gce-us-west2
-title = us-west2 (Los Angeles, California, USA)
-host = us-west2-b-gce.cloudharmony.net
-
-+++ gce-us-west3
-menu = gce-us-west3
-title = us-west3 (Salt Lake City, Utah, USA)
-host = us-west3-gce.cloudharmony.net
-
-+++ gce-us-west4
-menu = gce-us-west4
-title = us-west4 (Las Vegas, Nevada, USA)
-host = us-west4-gce.cloudharmony.net
-
 +++ gce-us-east5
-menu = gce-us-east5
-title = us-east5 (Columbus, Ohio, USA)
+menu = GCE us-east5
+title = GCE us-east5 (Columbus, Ohio)
 host = us-east5-gce.cloudharmony.net
 
-+++ gce-us-south1
-menu = gce-us-south1
-title = us-south1 (Dallas, Texas, USA)
-host = us-south1-gce.cloudharmony.net
-
-+++ gce-europe-west6
-menu = gce-europe-west6
-title = europe-west6 (Zurich, Switzerland)
-host = europe-west6-gce.cloudharmony.net
-
-+++ gce-europe-west8
-menu = gce-europe-west8
-title = europe-west8 (Milan, Italy)
-host = europe-west8-gce.cloudharmony.net
-
-+++ gce-europe-west9
-menu = gce-europe-west9
-title = europe-west9 (Paris, France)
-host = europe-west9-gce.cloudharmony.net
-
-+++ gce-europe-central2
-menu = gce-europe-central2
-title = europe-central2 (Warsaw, Poland)
-host = europe-central2-gce.cloudharmony.net
-
-+++ gce-europe-southwest1
-menu = gce-europe-southwest1
-title = europe-southwest1 (Madrid, Spain)
-host = europe-southwest1-gce.cloudharmony.net
-
-++ AWSEC2
-menu = EC2
-title = Amazon Web Services EC2
-
 +++ ec2-us-east-1
-menu = ec2-us-east-1
-title = us-east-1 US East (N. Virginia)
+menu = EC2 us-east-1
+title = EC2 us-east-1 (N. Virginia)
 host = dynamodb.us-east-1.amazonaws.com
 
 +++ ec2-us-east-2
-menu = ec2-us-east-2
-title = us-east-2 US East (Ohio)
+menu = EC2 us-east-2
+title = EC2 us-east-2 (Ohio)
 host = dynamodb.us-east-2.amazonaws.com
 
-+++ ec2-us-west-1
-menu = ec2-us-west-1
-title = us-west-1 US West (N. California)
-host = dynamodb.us-west-1.amazonaws.com
-
-+++ ec2-us-west-2
-menu = ec2-us-west-2
-title = us-west-2 US West (Oregon)
-host = dynamodb.us-west-2.amazonaws.com
-
-+++ ec2-ca-central-1
-menu = ec2-ca-central-1
-title = ca-central-1 Canada (Central)
-host = dynamodb.ca-central-1.amazonaws.com
-
-+++ ec2-eu-central-1
-menu = ec2-eu-central-1
-title = eu-central-1 EU (Frankfurt)
-host = dynamodb.eu-central-1.amazonaws.com
-
-+++ ec2-eu-west-1
-menu = ec2-eu-west-1
-title = eu-west-1 EU (Ireland)
-host = dynamodb.eu-west-1.amazonaws.com
-
-+++ ec2-eu-west-2
-menu = ec2-eu-west-2
-title = eu-west-2 EU (London)
-host = dynamodb.eu-west-2.amazonaws.com
-
-+++ ec2-eu-west-3
-menu = ec2-eu-west-3
-title = eu-west-3 EU (Paris)
-host = dynamodb.eu-west-3.amazonaws.com
-
-+++ ec2-ap-northeast-1
-menu = ec2-ap-northeast-1
-title = ap-northeast-1 Asia Pacific (Tokyo)
-host = dynamodb.ap-northeast-1.amazonaws.com
-
-+++ ec2-ap-northeast-2
-menu = ec2-ap-northeast-2
-title = ap-northeast-2 Asia Pacific (Seoul)
-host = dynamodb.ap-northeast-2.amazonaws.com
-
-+++ ec2-ap-northeast-3
-menu = ec2-ap-northeast-3
-title = ap-northeast-3 Asia Pacific (Osaka-Local)
-host = dynamodb.ap-northeast-3.amazonaws.com
-
-+++ ec2-ap-southeast-1
-menu = ec2-ap-southeast-1
-title = ap-southeast-1 Asia Pacific (Singapore)
-host = dynamodb.ap-southeast-1.amazonaws.com
-
-+++ ec2-ap-southeast-2
-menu = ec2-ap-southeast-2
-title = ap-southeast-2 Asia Pacific (Sydney)
-host = dynamodb.ap-southeast-2.amazonaws.com
-
-+++ ec2-ap-south-1
-menu = ec2-ap-south-1
-title = ap-south-1 Asia Pacific (Mumbai)
-host = dynamodb.ap-south-1.amazonaws.com
-
-+++ ec2-sa-east-1
-menu = ec2-sa-east-1
-title = sa-east-1 South America (São Paulo)
-host = dynamodb.sa-east-1.amazonaws.com
-
-+++ ec2-eu-north-1
-menu = ec2-eu-north-1
-title = eu-north-1 EU (Stockholm)
-host = dynamodb.eu-north-1.amazonaws.com
-
-+++ ec2-eu-south-1
-menu = ec2-eu-south-1
-title = eu-south-1 EU (Milan)
-host = dynamodb.eu-south-1.amazonaws.com
-
-+++ ec2-eu-south-2
-menu = ec2-eu-south-2
-title = eu-south-2 EU (Spain)
-host = dynamodb.eu-south-2.amazonaws.com
-
-+++ ec2-eu-central-2
-menu = ec2-eu-central-2
-title = eu-central-2 EU (Zurich)
-host = dynamodb.eu-central-2.amazonaws.com
-
-+++ ec2-us-gov-west-1
-menu = ec2-us-gov-west-1
-title = us-gov-west-1 AWS GovCloud (US-West)
-host = dynamodb.us-gov-west-1.amazonaws.com
-
-++ AzureVM
-menu = Azure VM
-title = Azure Virtual Machines
-
-+++ us-westcentral
-menu = us-westcentral
-title = us-westcentral
-host = us-westcentral.azure.cloudharmony.net
-
-+++ us-west2-3
-menu = us-west2-3
-title = us-west2-3
-host = us-west2-3.azure.cloudharmony.net
-
-+++ us-west
-menu = us-west
-title = us-west
-host = us-west.azure.cloudharmony.net
-
-+++ japan-east
-menu = japan-east
-title = japan-east
-host = japan-east.azure.cloudharmony.net
-
-+++ india-south
-menu = india-south
-title = india-south
-host = india-south.azure.cloudharmony.net
-
-+++ australia-southeast
-menu = australia-southeast
-title = australia-southeast
-host = australia-southeast.azure.cloudharmony.net
-
-+++ asia-southeast
-menu = asia-southeast
-title = asia-southeast
-host = asia-southeast.azure.cloudharmony.net
-
-+++ uk-west
-menu = uk-west
-title = uk-west
-host = uk-west.azure.cloudharmony.net
-
-+++ france-central
-menu = france-central
-title = france-central
-host = france-central.azure.cloudharmony.net
-
-+++ india-west
-menu = india-west
-title = india-west
-host = india-west.azure.cloudharmony.net
-
-+++ asia-east
-menu = asia-east
-title = asia-east
-host = asia-east.azure.cloudharmony.net
-
-+++ us-southcentral
-menu = us-southcentral
-title = us-southcentral
-host = us-southcentral.azure.cloudharmony.net
-
-+++ us-west2-1
-menu = us-west2-1
-title = us-west2-1
-host = us-west2-1.azure.cloudharmony.net
-
-+++ us-west2-2
-menu = us-west2-2
-title = us-west2-2
-host = us-west2-2.azure.cloudharmony.net
-
-+++ us-east2
-menu = us-east2
-title = us-east2
-host = us-east2.azure.cloudharmony.net
-
-+++ us-east
-menu = us-east
-title = us-east
++++ azure-us-east
+menu = Azure us-east
+title = Azure us-east
 host = us-east.azure.cloudharmony.net
 
-+++ australia-central2
-menu = australia-central2
-title = australia-central2
-host = australia-central2.azure.cloudharmony.net
++++ azure-us-east2
+menu = Azure us-east2
+title = Azure us-east2
+host = us-east2.azure.cloudharmony.net
 
-+++ canada-central
-menu = canada-central
-title = canada-central
-host = canada-central.azure.cloudharmony.net
-
-+++ korea-south
-menu = korea-south
-title = korea-south
-host = korea-south.azure.cloudharmony.net
-
-+++ canada-east
-menu = canada-east
-title = canada-east
-host = canada-east.azure.cloudharmony.net
-
-+++ eu-north
-menu = eu-north
-title = eu-north
-host = eu-north.azure.cloudharmony.net
-
-+++ australia-central
-menu = australia-central
-title = australia-central
-host = australia-central.azure.cloudharmony.net
-
-+++ us-northcentral
-menu = us-northcentral
-title = us-northcentral
-host = us-northcentral.azure.cloudharmony.net
-
-+++ korea-central
-menu = korea-central
-title = korea-central
-host = korea-central.azure.cloudharmony.net
-
-+++ us-central
-menu = us-central
-title = us-central
-host = us-central.azure.cloudharmony.net
-
-+++ brazil-south
-menu = brazil-south
-title = brazil-south
-host = brazil-south.azure.cloudharmony.net
-
-+++ eu-west
-menu = eu-west
-title = eu-west
-host = eu-west.azure.cloudharmony.net
-
-+++ france-south
-menu = france-south
-title = france-south
-host = france-south.azure.cloudharmony.net
-
-+++ india-central
-menu = india-central
-title = india-central
-host = india-central.azure.cloudharmony.net
-
-+++ australia-east
-menu = australia-east
-title = australia-east
-host = australia-east.azure.cloudharmony.net
-
-+++ japan-west
-menu = japan-west
-title = japan-west
-host = japan-west.azure.cloudharmony.net
-
-+++ uk-south
-menu = uk-south
-title = uk-south
-host = uk-south.azure.cloudharmony.net
-
-++ Rackspace
-menu = VCS
-title = Rackspace Virtual Cloud Servers
-
-+++ dfw
-menu = dfw
-title = Dallas-Fort Worth (DFW)
-host = dfw.speedtest.rackspace.com
-
-+++ ord
-menu = ord
-title = Chicago (ORD)
-host = ord.speedtest.rackspace.com
-
-+++ iad
-menu = iad
-title = Northern Virginia (IAD)
++++ rackspace-iad
+menu = Rackspace IAD
+title = Rackspace Northern Virginia (IAD)
 host = iad.speedtest.rackspace.com
 
-+++ lon
-menu = lon
-title = London (LON)
-host = lon.speedtest.rackspace.com
-
-+++ syd
-menu = syd
-title = Sydney (SYD)
-host = syd.speedtest.rackspace.com
-
-+++ hkg
-menu = hkg
-title = Hong Kong (HKG)
-host = hkg.speedtest.rackspace.com
-
-++ Vultr
-menu = Vultr
-title = Vultr
-
-+++ fra-de
-menu = fra-de
-title = Frankfurt, DE
-host = fra-de-ping.vultr.com
-
-+++ par-fr
-menu = par-fr
-title = Paris, France
-host = par-fr-ping.vultr.com
-
-+++ ams-nl
-menu = ams-nl
-title = Amsterdam, NL
-host = ams-nl-ping.vultr.com
-
-+++ lon-gb
-menu = lon-gb
-title = London, UK
-host = lon-gb-ping.vultr.com
-
-+++ sgp
-menu = sgp
-title = Singapore
-host = sgp-ping.vultr.com
-
-+++ nj-us
-menu = nj-us
-title = New York (NJ)
++++ vultr-nj-us
+menu = Vultr NJ
+title = Vultr New York (NJ)
 host = nj-us-ping.vultr.com
 
-+++ hnd-jp
-menu = hnd-jp
-title = Tokyo, Japan
-host = hnd-jp-ping.vultr.com
-
-+++ il-us
-menu = il-us
-title = Chicago, Illinois
-host = il-us-ping.vultr.com
-
-+++ ga-us
-menu = ga-us
-title = Atlanta, Georgia
++++ vultr-ga-us
+menu = Vultr GA
+title = Vultr Atlanta, Georgia
 host = ga-us-ping.vultr.com
 
-+++ fl-us
-menu = fl-us
-title = Miami, Florida
++++ vultr-fl-us
+menu = Vultr FL
+title = Vultr Miami, Florida
 host = fl-us-ping.vultr.com
 
-+++ wa-us
-menu = wa-us
-title = Seattle, Washington
-host = wa-us-ping.vultr.com
-
-+++ tx-us
-menu = tx-us
-title = Dallas, Texas
-host = tx-us-ping.vultr.com
-
-+++ sjo-ca-us
-menu = sjo-ca-us
-title = Silicon Valley, California
-host = sjo-ca-us-ping.vultr.com
-
-+++ lax-ca-us
-menu = lax-ca-us
-title = Los Angeles, California
-host = lax-ca-us-ping.vultr.com
-
-+++ syd-au
-menu = syd-au
-title = Sydney, Australia
-host = syd-au-ping.vultr.com
-
-++ Linode
-menu = Linode
-title = Linode
-
-+++ tokyo
-menu = tokyo
-host = speedtest.tokyo.linode.com
-
-+++ tokyo2
-menu = tokyo2
-host = speedtest.tokyo2.linode.com
-
-+++ mumbai1
-menu = mumbai1
-host = speedtest.mumbai1.linode.com
-
-+++ singapore
-menu = singapore
-host = speedtest.singapore.linode.com
-
-+++ sydney
-menu = syd1
-host = speedtest.syd1.linode.com
-
-+++ frankfurt
-menu = frankfurt
-host = speedtest.frankfurt.linode.com
-
-+++ london
-menu = london
-host = speedtest.london.linode.com
-
-+++ toronto
-menu = toronto1
-host = speedtest.toronto1.linode.com
-
-+++ newark
-menu = newark
++++ linode-newark
+menu = Linode Newark
+title = Linode Newark
 host = speedtest.newark.linode.com
 
-+++ atlanta
-menu = atlanta
++++ linode-atlanta
+menu = Linode Atlanta
+title = Linode Atlanta
 host = speedtest.atlanta.linode.com
 
-+++ dallas
-menu = dallas
-host = speedtest.dallas.linode.com
-
-+++ fremont
-menu = fremont
-host = speedtest.fremont.linode.com
-
-++ DigitalOcean
-menu = DigitalOcean
-title = DigitalOcean
-
 +++ do-nyc1
-menu = do-nyc1
-title = do-nyc1
+menu = DO nyc1
+title = DigitalOcean nyc1
 host = speedtest-nyc1.digitalocean.com
 
 +++ do-nyc2
-menu = do-nyc2
-title = do-nyc2
+menu = DO nyc2
+title = DigitalOcean nyc2
 host = speedtest-nyc2.digitalocean.com
 
 +++ do-nyc3
-menu = do-nyc3
-title = do-nyc3
+menu = DO nyc3
+title = DigitalOcean nyc3
 host = speedtest-nyc3.digitalocean.com
 
-+++ do-ams2
-menu = do-ams2
-title = do-ams2
-host = speedtest-ams2.digitalocean.com
+++ USCentral
+menu = US Central
+title = US Central
 
-+++ do-ams3
-menu = do-ams3
-title = do-ams3
-host = speedtest-ams3.digitalocean.com
++++ gce-us-central1
+menu = GCE us-central1
+title = GCE us-central1 (Council Bluffs, Iowa)
+host = us-central1-gce.cloudharmony.net
+
++++ gce-us-south1
+menu = GCE us-south1
+title = GCE us-south1 (Dallas, Texas)
+host = us-south1-gce.cloudharmony.net
+
++++ azure-us-central
+menu = Azure us-central
+title = Azure us-central
+host = us-central.azure.cloudharmony.net
+
++++ azure-us-northcentral
+menu = Azure us-northcentral
+title = Azure us-northcentral
+host = us-northcentral.azure.cloudharmony.net
+
++++ azure-us-southcentral
+menu = Azure us-southcentral
+title = Azure us-southcentral
+host = us-southcentral.azure.cloudharmony.net
+
++++ rackspace-dfw
+menu = Rackspace DFW
+title = Rackspace Dallas-Fort Worth (DFW)
+host = dfw.speedtest.rackspace.com
+
++++ rackspace-ord
+menu = Rackspace ORD
+title = Rackspace Chicago (ORD)
+host = ord.speedtest.rackspace.com
+
++++ vultr-il-us
+menu = Vultr IL
+title = Vultr Chicago, Illinois
+host = il-us-ping.vultr.com
+
++++ vultr-tx-us
+menu = Vultr TX
+title = Vultr Dallas, Texas
+host = tx-us-ping.vultr.com
+
++++ linode-dallas
+menu = Linode Dallas
+title = Linode Dallas
+host = speedtest.dallas.linode.com
+
+++ USWest
+menu = US West
+title = US West
+
++++ gce-us-west1
+menu = GCE us-west1
+title = GCE us-west1 (The Dalles, Oregon)
+host = us-west1-gce.cloudharmony.net
+
++++ gce-us-west2
+menu = GCE us-west2
+title = GCE us-west2 (Los Angeles, California)
+host = us-west2-b-gce.cloudharmony.net
+
++++ gce-us-west3
+menu = GCE us-west3
+title = GCE us-west3 (Salt Lake City, Utah)
+host = us-west3-gce.cloudharmony.net
+
++++ gce-us-west4
+menu = GCE us-west4
+title = GCE us-west4 (Las Vegas, Nevada)
+host = us-west4-gce.cloudharmony.net
+
++++ ec2-us-west-1
+menu = EC2 us-west-1
+title = EC2 us-west-1 (N. California)
+host = dynamodb.us-west-1.amazonaws.com
+
++++ ec2-us-west-2
+menu = EC2 us-west-2
+title = EC2 us-west-2 (Oregon)
+host = dynamodb.us-west-2.amazonaws.com
+
++++ azure-us-west
+menu = Azure us-west
+title = Azure us-west
+host = us-west.azure.cloudharmony.net
+
++++ azure-us-westcentral
+menu = Azure us-westcentral
+title = Azure us-westcentral
+host = us-westcentral.azure.cloudharmony.net
+
++++ azure-us-west2-1
+menu = Azure us-west2-1
+title = Azure us-west2-1
+host = us-west2-1.azure.cloudharmony.net
+
++++ azure-us-west2-2
+menu = Azure us-west2-2
+title = Azure us-west2-2
+host = us-west2-2.azure.cloudharmony.net
+
++++ azure-us-west2-3
+menu = Azure us-west2-3
+title = Azure us-west2-3
+host = us-west2-3.azure.cloudharmony.net
+
++++ vultr-wa-us
+menu = Vultr WA
+title = Vultr Seattle, Washington
+host = wa-us-ping.vultr.com
+
++++ vultr-sjo-ca-us
+menu = Vultr SJO
+title = Vultr Silicon Valley, California
+host = sjo-ca-us-ping.vultr.com
+
++++ vultr-lax-ca-us
+menu = Vultr LAX
+title = Vultr Los Angeles, California
+host = lax-ca-us-ping.vultr.com
+
++++ linode-fremont
+menu = Linode Fremont
+title = Linode Fremont
+host = speedtest.fremont.linode.com
 
 +++ do-sfo1
-menu = do-sfo1
-title = do-sfo1
+menu = DO sfo1
+title = DigitalOcean sfo1
 host = speedtest-sfo1.digitalocean.com
 
 +++ do-sfo2
-menu = do-sfo2
-title = do-sfo2
+menu = DO sfo2
+title = DigitalOcean sfo2
 host = speedtest-sfo2.digitalocean.com
 
 +++ do-sfo3
-menu = do-sfo3
-title = do-sfo3
+menu = DO sfo3
+title = DigitalOcean sfo3
 host = speedtest-sfo3.digitalocean.com
 
-+++ do-sgp1
-menu = do-sgp1
-title = do-sgp1
-host = speedtest-sgp1.digitalocean.com
+++ USGov
+menu = US Gov
+title = US GovCloud
 
-+++ do-lon1
-menu = do-lon1
-title = do-lon1
-host = speedtest-lon1.digitalocean.com
++++ ec2-us-gov-west-1
+menu = EC2 us-gov-west-1
+title = EC2 us-gov-west-1 (US-West)
+host = dynamodb.us-gov-west-1.amazonaws.com
 
-+++ do-fra1
-menu = do-fra1
-title = do-fra1
-host = speedtest-fra1.digitalocean.com
+++ Canada
+menu = Canada
+title = Canada
+
++++ gce-northamerica-northeast1
+menu = GCE northamerica-northeast1
+title = GCE northamerica-northeast1 (Montreal)
+host = northamerica-northeast1-gce.cloudharmony.net
+
++++ ec2-ca-central-1
+menu = EC2 ca-central-1
+title = EC2 ca-central-1 (Central)
+host = dynamodb.ca-central-1.amazonaws.com
+
++++ azure-canada-central
+menu = Azure canada-central
+title = Azure canada-central
+host = canada-central.azure.cloudharmony.net
+
++++ azure-canada-east
+menu = Azure canada-east
+title = Azure canada-east
+host = canada-east.azure.cloudharmony.net
+
++++ linode-toronto
+menu = Linode Toronto
+title = Linode Toronto
+host = speedtest.toronto1.linode.com
 
 +++ do-tor1
-menu = do-tor1
-title = do-tor1
+menu = DO tor1
+title = DigitalOcean tor1
 host = speedtest-tor1.digitalocean.com
 
+++ SouthAmerica
+menu = South America
+title = South America
+
++++ gce-southamerica-east1
+menu = GCE southamerica-east1
+title = GCE southamerica-east1 (Sao Paulo, Brazil)
+host = southamerica-east1-gce.cloudharmony.net
+
++++ ec2-sa-east-1
+menu = EC2 sa-east-1
+title = EC2 sa-east-1 (Sao Paulo)
+host = dynamodb.sa-east-1.amazonaws.com
+
++++ azure-brazil-south
+menu = Azure brazil-south
+title = Azure brazil-south
+host = brazil-south.azure.cloudharmony.net
+
+++ EuropeWest
+menu = Europe West
+title = Europe West (UK, Ireland, France, Benelux)
+
++++ gce-europe-west1
+menu = GCE europe-west1
+title = GCE europe-west1 (St. Ghislain, Belgium)
+host = europe-west1-gce.cloudharmony.net
+
++++ gce-europe-west2
+menu = GCE europe-west2
+title = GCE europe-west2 (London, UK)
+host = europe-west2-gce.cloudharmony.net
+
++++ gce-europe-west4
+menu = GCE europe-west4
+title = GCE europe-west4 (Eemshaven, Netherlands)
+host = europe-west4-gce.cloudharmony.net
+
++++ gce-europe-west9
+menu = GCE europe-west9
+title = GCE europe-west9 (Paris, France)
+host = europe-west9-gce.cloudharmony.net
+
++++ ec2-eu-west-1
+menu = EC2 eu-west-1
+title = EC2 eu-west-1 (Ireland)
+host = dynamodb.eu-west-1.amazonaws.com
+
++++ ec2-eu-west-2
+menu = EC2 eu-west-2
+title = EC2 eu-west-2 (London)
+host = dynamodb.eu-west-2.amazonaws.com
+
++++ ec2-eu-west-3
+menu = EC2 eu-west-3
+title = EC2 eu-west-3 (Paris)
+host = dynamodb.eu-west-3.amazonaws.com
+
++++ azure-uk-south
+menu = Azure uk-south
+title = Azure uk-south
+host = uk-south.azure.cloudharmony.net
+
++++ azure-uk-west
+menu = Azure uk-west
+title = Azure uk-west
+host = uk-west.azure.cloudharmony.net
+
++++ azure-eu-west
+menu = Azure eu-west
+title = Azure eu-west
+host = eu-west.azure.cloudharmony.net
+
++++ azure-france-central
+menu = Azure france-central
+title = Azure france-central
+host = france-central.azure.cloudharmony.net
+
++++ azure-france-south
+menu = Azure france-south
+title = Azure france-south
+host = france-south.azure.cloudharmony.net
+
++++ rackspace-lon
+menu = Rackspace LON
+title = Rackspace London (LON)
+host = lon.speedtest.rackspace.com
+
++++ vultr-lon-gb
+menu = Vultr London
+title = Vultr London, UK
+host = lon-gb-ping.vultr.com
+
++++ vultr-par-fr
+menu = Vultr Paris
+title = Vultr Paris, France
+host = par-fr-ping.vultr.com
+
++++ vultr-ams-nl
+menu = Vultr Amsterdam
+title = Vultr Amsterdam, NL
+host = ams-nl-ping.vultr.com
+
++++ linode-london
+menu = Linode London
+title = Linode London
+host = speedtest.london.linode.com
+
++++ do-lon1
+menu = DO lon1
+title = DigitalOcean lon1
+host = speedtest-lon1.digitalocean.com
+
++++ do-ams2
+menu = DO ams2
+title = DigitalOcean ams2
+host = speedtest-ams2.digitalocean.com
+
++++ do-ams3
+menu = DO ams3
+title = DigitalOcean ams3
+host = speedtest-ams3.digitalocean.com
+
+++ EuropeCentral
+menu = Europe Central
+title = Europe Central (Germany, Switzerland, Poland)
+
++++ gce-europe-west3
+menu = GCE europe-west3
+title = GCE europe-west3 (Frankfurt, Germany)
+host = europe-west3-gce.cloudharmony.net
+
++++ gce-europe-west6
+menu = GCE europe-west6
+title = GCE europe-west6 (Zurich, Switzerland)
+host = europe-west6-gce.cloudharmony.net
+
++++ gce-europe-central2
+menu = GCE europe-central2
+title = GCE europe-central2 (Warsaw, Poland)
+host = europe-central2-gce.cloudharmony.net
+
++++ ec2-eu-central-1
+menu = EC2 eu-central-1
+title = EC2 eu-central-1 (Frankfurt)
+host = dynamodb.eu-central-1.amazonaws.com
+
++++ ec2-eu-central-2
+menu = EC2 eu-central-2
+title = EC2 eu-central-2 (Zurich)
+host = dynamodb.eu-central-2.amazonaws.com
+
++++ vultr-fra-de
+menu = Vultr Frankfurt
+title = Vultr Frankfurt, DE
+host = fra-de-ping.vultr.com
+
++++ linode-frankfurt
+menu = Linode Frankfurt
+title = Linode Frankfurt
+host = speedtest.frankfurt.linode.com
+
++++ do-fra1
+menu = DO fra1
+title = DigitalOcean fra1
+host = speedtest-fra1.digitalocean.com
+
+++ EuropeNorth
+menu = Europe North
+title = Europe North (Nordics)
+
++++ gce-europe-north1
+menu = GCE europe-north1
+title = GCE europe-north1 (Hamina, Finland)
+host = europe-north1-gce.cloudharmony.net
+
++++ ec2-eu-north-1
+menu = EC2 eu-north-1
+title = EC2 eu-north-1 (Stockholm)
+host = dynamodb.eu-north-1.amazonaws.com
+
++++ azure-eu-north
+menu = Azure eu-north
+title = Azure eu-north
+host = eu-north.azure.cloudharmony.net
+
+++ EuropeSouth
+menu = Europe South
+title = Europe South (Spain, Italy)
+
++++ gce-europe-west8
+menu = GCE europe-west8
+title = GCE europe-west8 (Milan, Italy)
+host = europe-west8-gce.cloudharmony.net
+
++++ gce-europe-southwest1
+menu = GCE europe-southwest1
+title = GCE europe-southwest1 (Madrid, Spain)
+host = europe-southwest1-gce.cloudharmony.net
+
++++ ec2-eu-south-1
+menu = EC2 eu-south-1
+title = EC2 eu-south-1 (Milan)
+host = dynamodb.eu-south-1.amazonaws.com
+
++++ ec2-eu-south-2
+menu = EC2 eu-south-2
+title = EC2 eu-south-2 (Spain)
+host = dynamodb.eu-south-2.amazonaws.com
+
+++ AsiaEast
+menu = Asia East
+title = Asia East (Japan, Korea, Taiwan, Hong Kong)
+
++++ gce-asia-east1
+menu = GCE asia-east1
+title = GCE asia-east1 (Changhua County, Taiwan)
+host = asia-east1-gce.cloudharmony.net
+
++++ gce-asia-east2
+menu = GCE asia-east2
+title = GCE asia-east2 (Hong Kong)
+host = asia-east2-gce.cloudharmony.net
+
++++ gce-asia-northeast1
+menu = GCE asia-northeast1
+title = GCE asia-northeast1 (Tokyo, Japan)
+host = asia-northeast1-gce.cloudharmony.net
+
++++ ec2-ap-northeast-1
+menu = EC2 ap-northeast-1
+title = EC2 ap-northeast-1 (Tokyo)
+host = dynamodb.ap-northeast-1.amazonaws.com
+
++++ ec2-ap-northeast-2
+menu = EC2 ap-northeast-2
+title = EC2 ap-northeast-2 (Seoul)
+host = dynamodb.ap-northeast-2.amazonaws.com
+
++++ ec2-ap-northeast-3
+menu = EC2 ap-northeast-3
+title = EC2 ap-northeast-3 (Osaka)
+host = dynamodb.ap-northeast-3.amazonaws.com
+
++++ azure-japan-east
+menu = Azure japan-east
+title = Azure japan-east
+host = japan-east.azure.cloudharmony.net
+
++++ azure-japan-west
+menu = Azure japan-west
+title = Azure japan-west
+host = japan-west.azure.cloudharmony.net
+
++++ azure-asia-east
+menu = Azure asia-east
+title = Azure asia-east
+host = asia-east.azure.cloudharmony.net
+
++++ azure-korea-central
+menu = Azure korea-central
+title = Azure korea-central
+host = korea-central.azure.cloudharmony.net
+
++++ azure-korea-south
+menu = Azure korea-south
+title = Azure korea-south
+host = korea-south.azure.cloudharmony.net
+
++++ rackspace-hkg
+menu = Rackspace HKG
+title = Rackspace Hong Kong (HKG)
+host = hkg.speedtest.rackspace.com
+
++++ vultr-hnd-jp
+menu = Vultr Tokyo
+title = Vultr Tokyo, Japan
+host = hnd-jp-ping.vultr.com
+
++++ linode-tokyo
+menu = Linode Tokyo
+title = Linode Tokyo
+host = speedtest.tokyo.linode.com
+
++++ linode-tokyo2
+menu = Linode Tokyo2
+title = Linode Tokyo2
+host = speedtest.tokyo2.linode.com
+
+++ AsiaSoutheast
+menu = Asia Southeast
+title = Asia Southeast (Singapore)
+
++++ gce-asia-southeast1
+menu = GCE asia-southeast1
+title = GCE asia-southeast1 (Jurong West, Singapore)
+host = asia-southeast1-gce.cloudharmony.net
+
++++ ec2-ap-southeast-1
+menu = EC2 ap-southeast-1
+title = EC2 ap-southeast-1 (Singapore)
+host = dynamodb.ap-southeast-1.amazonaws.com
+
++++ azure-asia-southeast
+menu = Azure asia-southeast
+title = Azure asia-southeast
+host = asia-southeast.azure.cloudharmony.net
+
++++ vultr-sgp
+menu = Vultr Singapore
+title = Vultr Singapore
+host = sgp-ping.vultr.com
+
++++ linode-singapore
+menu = Linode Singapore
+title = Linode Singapore
+host = speedtest.singapore.linode.com
+
++++ do-sgp1
+menu = DO sgp1
+title = DigitalOcean sgp1
+host = speedtest-sgp1.digitalocean.com
+
+++ AsiaSouth
+menu = Asia South
+title = Asia South (India)
+
++++ gce-asia-south1
+menu = GCE asia-south1
+title = GCE asia-south1 (Mumbai, India)
+host = asia-south1-gce.cloudharmony.net
+
++++ ec2-ap-south-1
+menu = EC2 ap-south-1
+title = EC2 ap-south-1 (Mumbai)
+host = dynamodb.ap-south-1.amazonaws.com
+
++++ azure-india-central
+menu = Azure india-central
+title = Azure india-central
+host = india-central.azure.cloudharmony.net
+
++++ azure-india-south
+menu = Azure india-south
+title = Azure india-south
+host = india-south.azure.cloudharmony.net
+
++++ azure-india-west
+menu = Azure india-west
+title = Azure india-west
+host = india-west.azure.cloudharmony.net
+
++++ linode-mumbai
+menu = Linode Mumbai
+title = Linode Mumbai
+host = speedtest.mumbai1.linode.com
+
 +++ do-blr1
-menu = do-blr1
-title = do-blr1
+menu = DO blr1
+title = DigitalOcean blr1 (Bangalore)
 host = speedtest-blr1.digitalocean.com
+
+++ Australia
+menu = Australia
+title = Australia
+
++++ gce-australia-southeast1
+menu = GCE australia-southeast1
+title = GCE australia-southeast1 (Sydney)
+host = australia-southeast1-gce.cloudharmony.net
+
++++ ec2-ap-southeast-2
+menu = EC2 ap-southeast-2
+title = EC2 ap-southeast-2 (Sydney)
+host = dynamodb.ap-southeast-2.amazonaws.com
+
++++ azure-australia-east
+menu = Azure australia-east
+title = Azure australia-east
+host = australia-east.azure.cloudharmony.net
+
++++ azure-australia-southeast
+menu = Azure australia-southeast
+title = Azure australia-southeast
+host = australia-southeast.azure.cloudharmony.net
+
++++ azure-australia-central
+menu = Azure australia-central
+title = Azure australia-central
+host = australia-central.azure.cloudharmony.net
+
++++ azure-australia-central2
+menu = Azure australia-central2
+title = Azure australia-central2
+host = australia-central2.azure.cloudharmony.net
+
++++ rackspace-syd
+menu = Rackspace SYD
+title = Rackspace Sydney (SYD)
+host = syd.speedtest.rackspace.com
+
++++ vultr-syd-au
+menu = Vultr Sydney
+title = Vultr Sydney, Australia
+host = syd-au-ping.vultr.com
+
++++ linode-sydney
+menu = Linode Sydney
+title = Linode Sydney
+host = speedtest.syd1.linode.com
 
 + InternetSites
 
