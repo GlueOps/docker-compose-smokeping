@@ -821,6 +821,65 @@ menu = Sun Microsystems
 title = Sun Microsystems Webserver
 host = www.oracle.com/us/sun
 
++ GlueOps
+menu = GlueOps
+title = GlueOps
+
+++ ch-dk-2
+menu = ch-dk-2
+title = GlueOps ch-dk-2
+host = 91.92.141.198
+
+++ ch-gva-2
+menu = ch-gva-2
+title = GlueOps ch-gva-2
+host = 85.217.163.127
+
+++ de-fra-1
+menu = de-fra-1
+title = GlueOps de-fra-1
+host = 91.92.224.160
+
+++ de-muc-1
+menu = de-muc-1
+title = GlueOps de-muc-1
+host = 194.182.181.157
+
+++ at-vie-1
+menu = at-vie-1
+title = GlueOps at-vie-1
+host = 85.217.184.16
+
+++ at-vie-2
+menu = at-vie-2
+title = GlueOps at-vie-2
+host = 138.124.209.219
+
+++ bg-sof-1
+menu = bg-sof-1
+title = GlueOps bg-sof-1
+host = 194.182.179.33
+
+++ hr-zag-1
+menu = hr-zag-1
+title = GlueOps hr-zag-1
+host = 151.145.192.38
+
+++ eu-central
+menu = eu-central
+title = GlueOps eu-central
+host = 65.109.107.236
+
+++ us-west
+menu = us-west
+title = GlueOps us-west
+host = 38.46.221.209
+
+++ us-east
+menu = us-east
+title = GlueOps us-east
+host = 51.81.46.186
+
 + DNS
 menu = DNS
 title = DNS
