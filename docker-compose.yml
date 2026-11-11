@@ -1,6 +1,6 @@
 services:
   smokeping:
-    image: linuxserver/smokeping@sha256:311d44c5a162f724b8d48f7a26bd604152d409f6249197ff2c7190f496db87d9
+    image: linuxserver/smokeping@sha256:a2c7454fd46b1d9fdc273ad029db01fbb7f205d71bad08138edf6a380b965397
     container_name: smokeping
     environment:
       - PUID=1001
